@@ -1,0 +1,20 @@
+.inputsing{
+    border-radius: 10px;
+    border-color: brown;
+}
+
+.btnsingin{
+    background-color: crimson;
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.btnsingin:hover{
+    background-color: rgb(6, 104, 21);
+    color: white;
+    border-radius: 6px;
+    cursor: pointer;
+    width: 8%;
+    
+}
